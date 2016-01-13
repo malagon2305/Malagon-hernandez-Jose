@@ -1,0 +1,49 @@
+
+body{
+    font-family: Arial, Melvetica, sans-serif;
+    margin: 0 auto;
+    width: 60%;
+    background:#190;    
+    border: 1px solid #7C7C7C;
+}
+
+section{
+    width: 60%;
+    float: left;
+}
+
+aside{
+    width: 30%;
+    float: left;
+}
+article{
+    padding: 15px;
+    background-color: dimgray;
+}
+
+footer{
+    clear: both;
+    margin-left: auto;
+    text-align: center;
+}
+
+nav {
+  background: #F4F4F4;
+  
+  width: 100%;
+  list-style: none;
+
+}
+
+nav ul{
+    list-style: none;
+    float: left;
+}
+
+nav ul li{
+    float: left;
+    margin-right: 20px;
+    font: bold 22px sams-serif;
+    text-align: center;
+    text-decoration: none;
+}
